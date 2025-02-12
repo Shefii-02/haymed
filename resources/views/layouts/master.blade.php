@@ -53,7 +53,7 @@
         }
     </style> --}}
     <title>
-        Vincent &amp; Dussault | Bâtisseurs de concessionnaires automobiles
+        Heymed Healthcare
     </title>
 
     <meta charset='UTF-8'>
@@ -64,20 +64,20 @@
 
 
     <meta name='description'
-        content='Vincent &amp; Dussault est un entrepreneur en construction spécialisé en concessionnaires automobiles'>
+        content='HeymedHealthcare'>
 
-    <meta property="og:title" content="Vincent &amp; Dussault | Bâtisseurs de concessionnaires automobiles">
+    <meta property="og:title" content="Heymed Healthcare">
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://vincentetdussault.com/">
-    <meta property="og:site_name" content="Vincent &amp; Dussault">
+    <meta property="og:url" content="https://heymedhealthcare.com/">
+    <meta property="og:site_name" content="Heymed Healthcare &amp; Dussault">
     <meta name="theme-color" content="#fff" />
 
 
 
 
-    <meta property="og:image" content="https://vincentetdussault.com/images/share-image.jpg">
-    <meta property="og:image:secure_url" content="https://vincentetdussault.com/images/share-image.jpg">
+    <meta property="og:image" content="#">
+    <meta property="og:image:secure_url" content="#">
 
     <meta property="og:locale" content="fr_CA">
 
