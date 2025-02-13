@@ -13,8 +13,7 @@
     <section id='plus-de-300'>
         <div class='content'>
             <h2 id="plus-de-strong250strongbrconcessionnaires-réalisés">
-                Heymed Health Care:<br>
-                Pioneering the future of health in GCC
+                Heymed Health Care
             </h2>
             <p>Founded in 2024, Haymed Healthcare Pvt. Ltd. is dedicated to delivering high-quality, affordable healthcare,
                 particularly in rural areas. Our expanding network of clinics, medical centers, diagnostic facilities, and
