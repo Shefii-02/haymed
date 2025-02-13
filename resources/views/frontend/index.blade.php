@@ -16,9 +16,9 @@
                 Heymed Health Care:<br>
                 Pioneering the future of health in GCC
             </h2>
-            <p>Heymed Health Care LLP , HHC health care solutions established on 2023. We are aim at dedi- cating ourselves
-                to human care through excellence in diagnostic services and improving health stan- dards through preventive
-                care. Be the best starting the delivery of health services to all the normal people in a lowest package.</p>
+            <p>Founded in 2024, Haymed Healthcare Pvt. Ltd. is dedicated to delivering high-quality, affordable healthcare,
+                particularly in rural areas. Our expanding network of clinics, medical centers, diagnostic facilities, and
+                hyper-pharmacies integrates AI-driven technology for advanced, accessible care.</p>
 
             <div class="countblocks flex justify-center  flex-wrap gap-2 md:gap-4 max-md:mt-2 md:mt-8 max-md:justify-center">
                 <div class="counter-bg">
@@ -77,69 +77,223 @@
     <section id='plus-de-300'>
         <div class='content'>
             <h2 id="plus-de-strong250strongbrconcessionnaires-réalisés">Our Brands</h2>
-            <p>Our promise is a quality-driven service, and our aim is to ensure affordable access to healthcare services.</p>
+            <p>Our promise is a quality-driven service, and our aim is to ensure affordable access to healthcare services.
+            </p>
 
 
             <div class="featured mt-6 " style="margin-top:50px; ">
-                <a href="realisations/genesis-saint-laurent/index">
+                <span>
                     <figure>
                         <img src="https://hayathhealthcare.com/images/venture/q5P5LFVe2lX69yCkWsJ8GWanQ6e1it-photo-1586773860383-dab5f3bc1bcc.avif"
                             alt="Genesis A40">
                     </figure>
+
                     <div>
-                        Genesis A40
-                        <svg width="32" height="9" viewBox="0 0 38 9" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M33.2082 0.178985L37.0971 4.0679C37.3358 4.30654 37.3358 4.69346 37.0971 4.9321L33.2082 8.82102C32.9696 9.05966 32.5827 9.05966 32.344 8.82102C32.1054 8.58238 32.1054 8.19546 32.344 7.95682L35.1898 5.11109L-4.46825e-07 5.11108L-3.3998e-07 3.88892L35.1898 3.88892L32.344 1.04319C32.1054 0.804545 32.1054 0.417628 32.344 0.178985C32.5827 -0.0596579 32.9696 -0.0596579 33.2082 0.178985Z"
-                                fill="#FF4438" />
-                        </svg>
+                        <span>Hayath Medicare</span>
+                        <div class="eachbranddesc px-2">
+                            <div class="brandlinks gap-3 ">
+                                <div class="flex gap-2">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16.949" height="21.22"
+                                        viewBox="0 0 16.949 21.22">
+                                        <g id="location-pin-svgrepo-com" transform="translate(1 1)">
+                                            <path id="Path_21256" data-name="Path 21256"
+                                                d="M12.474,22.22c3.737-3.844,7.474-7.286,7.474-11.532A7.583,7.583,0,0,0,12.474,3,7.583,7.583,0,0,0,5,10.688C5,14.934,8.737,18.376,12.474,22.22Z"
+                                                transform="translate(-5 -3)" fill="none" stroke="#164d92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+                                            <path id="Path_21257" data-name="Path 21257"
+                                                d="M11.808,12.615A2.808,2.808,0,1,0,9,9.808,2.807,2.807,0,0,0,11.808,12.615Z"
+                                                transform="translate(-4.333 -2.333)" fill="#00b48d"></path>
+                                        </g>
+                                    </svg>
+
+                                    <span>Locations</span>
+
+                                </div>
+
+
+
+                                <div class="flex gap-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="18.484" height="18.484"
+                                        viewBox="0 0 18.484 18.484">
+                                        <g id="Group_11394" data-name="Group 11394" transform="translate(1 1)">
+                                            <path id="Path_447" data-name="Path 447"
+                                                d="M11.242,20.484a20.557,20.557,0,0,1-4.368-.357,5.915,5.915,0,0,1-3.005-1.511C2.318,17.064,2,14.546,2,11.242a20.557,20.557,0,0,1,.357-4.368A5.915,5.915,0,0,1,3.869,3.869C5.42,2.318,7.938,2,11.242,2a1,1,0,0,1,0,2c-3.321,0-5.048.372-5.959,1.283S4,7.921,4,11.242,4.372,16.29,5.283,17.2s2.638,1.283,5.959,1.283S16.29,18.112,17.2,17.2s1.283-2.638,1.283-5.959a1,1,0,0,1,2,0,20.557,20.557,0,0,1-.357,4.368,5.915,5.915,0,0,1-1.511,3.005C17.064,20.166,14.546,20.484,11.242,20.484Z"
+                                                transform="translate(-3 -3)" fill="#00b48d"></path>
+                                            <path id="Path_448" data-name="Path 448"
+                                                d="M15,9.537a1,1,0,0,1-.707-1.707L19.33,2.793a1,1,0,0,1,1.414,1.414L15.707,9.244A1,1,0,0,1,15,9.537Z"
+                                                transform="translate(-4.011 -3.042)" fill="#164d92"></path>
+                                            <path id="Path_449" data-name="Path 449"
+                                                d="M20.579,8.579a1,1,0,0,1-1-1V4H16a1,1,0,0,1,0-2h4.278a1.3,1.3,0,0,1,1.3,1.3V7.579A1,1,0,0,1,20.579,8.579Z"
+                                                transform="translate(-4.095 -3)" fill="#164d92"></path>
+                                        </g>
+                                    </svg>
+
+
+                                    <span>Visit Website</span>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                </a>
-                <a href="realisations/vw-lachine/index">
+                </span>
+                <span>
                     <figure>
                         <img src="https://hayathhealthcare.com/images/venture/Dq35fE1DQLglQPjBWMRInw1LVrxjqY-photo-1626315869436-d6781ba69d6e.avif"
                             alt="Volkswagen Lachine">
                     </figure>
+
                     <div>
-                        Volkswagen Lachine
-                        <svg width="32" height="9" viewBox="0 0 38 9" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M33.2082 0.178985L37.0971 4.0679C37.3358 4.30654 37.3358 4.69346 37.0971 4.9321L33.2082 8.82102C32.9696 9.05966 32.5827 9.05966 32.344 8.82102C32.1054 8.58238 32.1054 8.19546 32.344 7.95682L35.1898 5.11109L-4.46825e-07 5.11108L-3.3998e-07 3.88892L35.1898 3.88892L32.344 1.04319C32.1054 0.804545 32.1054 0.417628 32.344 0.178985C32.5827 -0.0596579 32.9696 -0.0596579 33.2082 0.178985Z"
-                                fill="#FF4438" />
-                        </svg>
+                        <span>Hayath Mother and child care</span>
+                        <div class="eachbranddesc px-2">
+                            <div class="brandlinks gap-3 ">
+                                <div class="flex gap-2">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16.949" height="21.22"
+                                        viewBox="0 0 16.949 21.22">
+                                        <g id="location-pin-svgrepo-com" transform="translate(1 1)">
+                                            <path id="Path_21256" data-name="Path 21256"
+                                                d="M12.474,22.22c3.737-3.844,7.474-7.286,7.474-11.532A7.583,7.583,0,0,0,12.474,3,7.583,7.583,0,0,0,5,10.688C5,14.934,8.737,18.376,12.474,22.22Z"
+                                                transform="translate(-5 -3)" fill="none" stroke="#164d92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+                                            <path id="Path_21257" data-name="Path 21257"
+                                                d="M11.808,12.615A2.808,2.808,0,1,0,9,9.808,2.807,2.807,0,0,0,11.808,12.615Z"
+                                                transform="translate(-4.333 -2.333)" fill="#00b48d"></path>
+                                        </g>
+                                    </svg>
+
+                                    <span>Locations</span>
+
+                                </div>
+
+
+
+                                <div class="flex gap-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="18.484" height="18.484"
+                                        viewBox="0 0 18.484 18.484">
+                                        <g id="Group_11394" data-name="Group 11394" transform="translate(1 1)">
+                                            <path id="Path_447" data-name="Path 447"
+                                                d="M11.242,20.484a20.557,20.557,0,0,1-4.368-.357,5.915,5.915,0,0,1-3.005-1.511C2.318,17.064,2,14.546,2,11.242a20.557,20.557,0,0,1,.357-4.368A5.915,5.915,0,0,1,3.869,3.869C5.42,2.318,7.938,2,11.242,2a1,1,0,0,1,0,2c-3.321,0-5.048.372-5.959,1.283S4,7.921,4,11.242,4.372,16.29,5.283,17.2s2.638,1.283,5.959,1.283S16.29,18.112,17.2,17.2s1.283-2.638,1.283-5.959a1,1,0,0,1,2,0,20.557,20.557,0,0,1-.357,4.368,5.915,5.915,0,0,1-1.511,3.005C17.064,20.166,14.546,20.484,11.242,20.484Z"
+                                                transform="translate(-3 -3)" fill="#00b48d"></path>
+                                            <path id="Path_448" data-name="Path 448"
+                                                d="M15,9.537a1,1,0,0,1-.707-1.707L19.33,2.793a1,1,0,0,1,1.414,1.414L15.707,9.244A1,1,0,0,1,15,9.537Z"
+                                                transform="translate(-4.011 -3.042)" fill="#164d92"></path>
+                                            <path id="Path_449" data-name="Path 449"
+                                                d="M20.579,8.579a1,1,0,0,1-1-1V4H16a1,1,0,0,1,0-2h4.278a1.3,1.3,0,0,1,1.3,1.3V7.579A1,1,0,0,1,20.579,8.579Z"
+                                                transform="translate(-4.095 -3)" fill="#164d92"></path>
+                                        </g>
+                                    </svg>
+
+
+                                    <span>Visit Website</span>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                </a>
-                <a href="realisations/porsche-rive-sud/index">
+                </span>
+                <span>
                     <figure>
                         <img src="https://hayathhealthcare.com/images/blog/WbEW4yvM8ZONA3QFzKlpQKcKwjJehR-fe21ef10-617e-4094-8055-0354586b549e.jpg"
                             alt="Porsche Rive-Sud">
                     </figure>
                     <div>
-                        Porsche Rive-Sud
-                        <svg width="32" height="9" viewBox="0 0 38 9" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M33.2082 0.178985L37.0971 4.0679C37.3358 4.30654 37.3358 4.69346 37.0971 4.9321L33.2082 8.82102C32.9696 9.05966 32.5827 9.05966 32.344 8.82102C32.1054 8.58238 32.1054 8.19546 32.344 7.95682L35.1898 5.11109L-4.46825e-07 5.11108L-3.3998e-07 3.88892L35.1898 3.88892L32.344 1.04319C32.1054 0.804545 32.1054 0.417628 32.344 0.178985C32.5827 -0.0596579 32.9696 -0.0596579 33.2082 0.178985Z"
-                                fill="#FF4438" />
-                        </svg>
+                        <span>Haymed Clinics</span>
+                        <div class="eachbranddesc px-2">
+                            <div class="brandlinks gap-3">
+                                <div class="flex gap-2">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16.949" height="21.22"
+                                        viewBox="0 0 16.949 21.22">
+                                        <g id="location-pin-svgrepo-com" transform="translate(1 1)">
+                                            <path id="Path_21256" data-name="Path 21256"
+                                                d="M12.474,22.22c3.737-3.844,7.474-7.286,7.474-11.532A7.583,7.583,0,0,0,12.474,3,7.583,7.583,0,0,0,5,10.688C5,14.934,8.737,18.376,12.474,22.22Z"
+                                                transform="translate(-5 -3)" fill="none" stroke="#164d92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+                                            <path id="Path_21257" data-name="Path 21257"
+                                                d="M11.808,12.615A2.808,2.808,0,1,0,9,9.808,2.807,2.807,0,0,0,11.808,12.615Z"
+                                                transform="translate(-4.333 -2.333)" fill="#00b48d"></path>
+                                        </g>
+                                    </svg>
+
+                                    <span>Locations</span>
+
+                                </div>
+
+
+
+                                <div class="flex gap-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="18.484" height="18.484"
+                                        viewBox="0 0 18.484 18.484">
+                                        <g id="Group_11394" data-name="Group 11394" transform="translate(1 1)">
+                                            <path id="Path_447" data-name="Path 447"
+                                                d="M11.242,20.484a20.557,20.557,0,0,1-4.368-.357,5.915,5.915,0,0,1-3.005-1.511C2.318,17.064,2,14.546,2,11.242a20.557,20.557,0,0,1,.357-4.368A5.915,5.915,0,0,1,3.869,3.869C5.42,2.318,7.938,2,11.242,2a1,1,0,0,1,0,2c-3.321,0-5.048.372-5.959,1.283S4,7.921,4,11.242,4.372,16.29,5.283,17.2s2.638,1.283,5.959,1.283S16.29,18.112,17.2,17.2s1.283-2.638,1.283-5.959a1,1,0,0,1,2,0,20.557,20.557,0,0,1-.357,4.368,5.915,5.915,0,0,1-1.511,3.005C17.064,20.166,14.546,20.484,11.242,20.484Z"
+                                                transform="translate(-3 -3)" fill="#00b48d"></path>
+                                            <path id="Path_448" data-name="Path 448"
+                                                d="M15,9.537a1,1,0,0,1-.707-1.707L19.33,2.793a1,1,0,0,1,1.414,1.414L15.707,9.244A1,1,0,0,1,15,9.537Z"
+                                                transform="translate(-4.011 -3.042)" fill="#164d92"></path>
+                                            <path id="Path_449" data-name="Path 449"
+                                                d="M20.579,8.579a1,1,0,0,1-1-1V4H16a1,1,0,0,1,0-2h4.278a1.3,1.3,0,0,1,1.3,1.3V7.579A1,1,0,0,1,20.579,8.579Z"
+                                                transform="translate(-4.095 -3)" fill="#164d92"></path>
+                                        </g>
+                                    </svg>
+
+
+                                    <span>Visit Website</span>
+                                </div>
+
+                            </div>
+                        </div>
+
+
                     </div>
-                </a>
+                </span>
             </div>
         </div>
+    </section>
+    <section class="bg-theme-top-gradient rw-moopan relative mb-5">
+        <div class=" flex pt-7 max-md:flex-col">
+            <div class="flex flex-col justify-between">
+                <div class="rw-moopan-desc max-md:text-center pt-10 2xl:pt-24 aos-init aos-animate" data-aos="fade-up"
+                    data-aos-easing="linear" data-aos-duration="1000">
+                    <h3 class="text-black subhead max-md:pb-1 md:pb-3"></h3>
+                    <h2 class="text-black  md:mb-5 fw-bold">Future Outlook</h2>
+                    <p class="text-black">Haymed Healthcare aims to revolutionize India’s clinic chain landscape by
+                        becoming the leading provider of affordable, high-quality healthcare across the country. In the next
+                        three years, we plan to expand our presence nationwide and transition into a publicly listed
+                        company, further scaling our innovative model and making healthcare accessible to millions.</p>
+                </div>
+                <div class="rw-moopan-desc max-md:text-center pt-10 2xl:pt-24 aos-init aos-animate" data-aos="fade-up"
+                    data-aos-easing="linear" data-aos-duration="1000">
+                    <h2 class="text-black md:mb-5 fw-bold">Sustainability Commitment</h2>
+                    <p class="text-black">
+                        Haymed Healthcare is dedicated to sustainability, utilizing renewable energy sources across our
+                        facilities to reduce our carbon footprint. This initiative ensures that our healthcare services not
+                        only promote patient well-being but also contribute to the health of the planet.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
     </section>
 
 
 
 
-    <section id='testimonials'>
+    <section id='testimonials' class="mt-5">
 
         <div class='content'>
-            <h6 id="plus-de-35-annéesbrde-confiance">Patient Stories</h6>
-            <h2 class="text-lg">Stories of healing</h2>
-            <p class="max-w-160">We invite you to delve into the heartfelt accounts of individuals who have traversed the
-                often challenging path of illness, treatment and recovery.</p>
+            <div class="text-enter">
+                <h6 id="plus-de-35-annéesbrde-confiance" class="mb-2">Patient Stories</h6>
+                <h2 class="text-lg ">Stories of healing</h2>
+                <p class="max-w-160">We invite you to delve into the heartfelt accounts of individuals who have traversed
+                    the
+                    often challenging path of illness, treatment and recovery.</p>
+
+            </div>
+
             <ul>
                 <li>
                     <p>I started experiencing symptoms of heavy bleeding & severe abdominal pain, which made me decide to
@@ -171,11 +325,11 @@
             </ul>
             <div class="slider-buttons">
                 <div class="prev">
-                    <svg width="5rem" height="2rem" viewBox="0 0 25 7" fill="none" xmlns="http://www.w3.org/2000/svg"
-                        style="transform: rotate(180deg);">
+                    <svg width="5rem" height="2rem" viewBox="0 0 25 7" fill="none"
+                        xmlns="http://www.w3.org/2000/svg" style="transform: rotate(180deg);">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                             d="M21.7373 0.671603L24.2828 3.21719C24.4391 3.3734 24.4391 3.62666 24.2828 3.78287L21.7373 6.32846C21.581 6.48467 21.3278 6.48467 21.1716 6.32846C21.0154 6.17225 21.0154 5.91898 21.1716 5.76277L23.0343 3.90003L-2.9248e-07 3.90003L-2.22542e-07 3.10003L23.0343 3.10003L21.1716 1.23729C21.0154 1.08108 21.0154 0.827812 21.1716 0.671602C21.3278 0.515393 21.581 0.515393 21.7373 0.671603Z"
-                            fill="#F8F5EE"></path>
+                            fill="#1b3a6a"></path>
                     </svg>
                 </div>
                 <div class="next">
@@ -183,7 +337,7 @@
                         xmlns="http://www.w3.org/2000/svg">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                             d="M21.7373 0.671603L24.2828 3.21719C24.4391 3.3734 24.4391 3.62666 24.2828 3.78287L21.7373 6.32846C21.581 6.48467 21.3278 6.48467 21.1716 6.32846C21.0154 6.17225 21.0154 5.91898 21.1716 5.76277L23.0343 3.90003L-2.9248e-07 3.90003L-2.22542e-07 3.10003L23.0343 3.10003L21.1716 1.23729C21.0154 1.08108 21.0154 0.827812 21.1716 0.671602C21.3278 0.515393 21.581 0.515393 21.7373 0.671603Z"
-                            fill="#F8F5EE"></path>
+                            fill="#1b3a6a"></path>
                     </svg>
                 </div>
             </div>
@@ -194,6 +348,8 @@
 
 
     </section>
+
+
 
     <section id='image-block'>
         <figure>
@@ -242,35 +398,29 @@
     <section class="rwcontainer expertdoctorsec ">
         <div
             class="md:rounded-20 bg-theme-top-gradient mbcontainer max-md:py-12 md:p-10 lg:p-12 xl:p-14 2xl:p-16 max-md:text-center">
-            <h3 class="subhead aos-init aos-animate" data-aos="fade-up" data-aos-easing="linear"
-                data-aos-duration="1000">Our Expert Doctors</h3>
+
             <div class="">
-                <div class="flex flex-wrap gap-3 md:gap-16 max-md:pb-4 md:pb-0 2xl:pb-6 max-md:flex-col aos-init aos-animate"
-                    data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-                    <h2 class="heading3 flex-1">Exceptional minds, united by talent, technology &amp; trust</h2>
-                    <p class="flex-1 m-0">Our team of highly qualified doctors have a number of unique achievements to
-                        their credits, but the most important thing is our multi-disciplinary approach to providing the best
-                        possible treatment for each patient.</p>
+                <div class=" mb-3 aos-init aos-animate" data-aos="fade-up" data-aos-easing="linear"
+                    data-aos-duration="1000">
+                    <h2 class="fw-bold">Core Values</h2>
+                    <p> Our commitment to excellence is built on strong foundational values:</p>
                 </div>
                 <div class="flex items-center flex-wrap gap-5 md:gap-16 max-md:flex-col">
                     <div class="flex-1 aos-init aos-animate" data-aos="fade-up" data-aos-easing="linear"
                         data-aos-duration="1000">
-
-
                         <img src="https://hayathhealthcare.com/images/venture/CdSD4HW44pvwQ5CJO1tY6BIK0g1mCA-photo-1586773860383-dab5f3bc1bcc.avif"
                             class="rounded-20 w-full object-cover h-[300px] 2xl:h-[490px]">
-
-
-
                     </div>
+
                     <div class="max-md:w-full flex-1 aos-init aos-animate" data-aos="fade-up" data-aos-easing="linear"
                         data-aos-duration="1000">
-
-
                         <div>
                             <a target="_blank" href="https://www.my.com/doctor-consultation"
                                 class="flex justify-between expertdoctorseclinks items-center max-md:py-1 md:py-3">
-                                <span class="abold text-black">Find a Doctor</span>
+                                <div>
+                                    <span class="abold text-black">Compassion</span>
+                                    <p>Every patient deserves personalized, empathetic care.</p>
+                                </div>
                                 <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
                                     height="40" viewBox="0 0 39 40" style="display: block;">
                                     <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
@@ -303,7 +453,10 @@
                         <div>
                             <a target="_blank" href="https://www.my.com/doctor-consultation/appointments"
                                 class="flex justify-between expertdoctorseclinks items-center max-md:py-1 md:py-3">
-                                <span class="abold text-black">Appointments &amp; Referrals</span>
+                                <div>
+                                    <span class="abold text-black">Integrity</span>
+                                    <p>Upholding the highest ethical standards in all our services.</p>
+                                </div>
                                 <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
                                     height="40" viewBox="0 0 39 40" style="display: block;">
                                     <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
@@ -334,9 +487,12 @@
 
 
                         <div>
-                            <a target="_blank" href="https://www.my.com/doctor-consultation/speciality-list"
+                            <a target="_blank" href="#"
                                 class="flex justify-between expertdoctorseclinks items-center max-md:py-1 md:py-3">
-                                <span class="abold text-black">View our Treatments</span>
+                                <div>
+                                    <span class="abold text-black">Accessibility</span>
+                                    <p>Quality healthcare should not be a privilege but a right.</p>
+                                </div>
                                 <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
                                     height="40" viewBox="0 0 39 40" style="display: block;">
                                     <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
@@ -363,6 +519,82 @@
                                 </svg>
                             </a>
                         </div>
+
+                        <div>
+                            <a target="_blank" href="#"
+                                class="flex justify-between expertdoctorseclinks items-center max-md:py-1 md:py-3">
+                                <div>
+                                    <span class="abold text-black">Sustainability</span>
+                                    <p>Creating a healthcare model that is both impactful and long-lasting, using renewable
+                                        energy and offering affordable treatment costs.</p>
+                                </div>
+                                <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
+                                    height="40" viewBox="0 0 39 40" style="display: block;">
+                                    <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
+                                        <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(0.431 -0.49)"
+                                            fill="#fff" stroke="#fff" stroke-width="1">
+                                            <ellipse cx="19.5" cy="20" rx="19.5" ry="20"
+                                                stroke="none">
+                                            </ellipse>
+                                            <ellipse cx="19.5" cy="20" rx="19" ry="19.5"
+                                                fill="none"></ellipse>
+                                        </g>
+                                        <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right"
+                                            transform="translate(13.302 13.302)">
+                                            <path id="Path_21067" data-name="Path 21067" d="M7.5,18H19.915"
+                                                transform="translate(-7.5 -11.792)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                            <path id="Path_21068" data-name="Path 21068" d="M18,7.5l6.208,6.208L18,19.915"
+                                                transform="translate(-11.792 -7.5)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </svg>
+                            </a>
+                        </div>
+
+
+                        <div>
+                            <a target="_blank" href="#"
+                                class="flex justify-between expertdoctorseclinks items-center max-md:py-1 md:py-3">
+                                <div>
+                                    <span class="abold text-black">Innovation</span>
+                                    <p>Leveraging the latest medical advancements for superior patient outcomes.</p>
+                                </div>
+
+                                <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
+                                    height="40" viewBox="0 0 39 40" style="display: block;">
+                                    <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
+                                        <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(0.431 -0.49)"
+                                            fill="#fff" stroke="#fff" stroke-width="1">
+                                            <ellipse cx="19.5" cy="20" rx="19.5" ry="20"
+                                                stroke="none">
+                                            </ellipse>
+                                            <ellipse cx="19.5" cy="20" rx="19" ry="19.5"
+                                                fill="none"></ellipse>
+                                        </g>
+                                        <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right"
+                                            transform="translate(13.302 13.302)">
+                                            <path id="Path_21067" data-name="Path 21067" d="M7.5,18H19.915"
+                                                transform="translate(-7.5 -11.792)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                            <path id="Path_21068" data-name="Path 21068" d="M18,7.5l6.208,6.208L18,19.915"
+                                                transform="translate(-11.792 -7.5)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </svg>
+                            </a>
+                        </div>
+
+
+
+
+
 
 
 
@@ -424,11 +656,47 @@
                 class=" md:w-[83%] md:bg-theme-gradient flex md:rounded-20 md:p-5 xl:p-10 2xl:p-20 md:min-h-[450px] xl:min-h-[450px] 2xl:min-h-[550px] max-md:text-center md:box-content">
                 <div class="flex-1 flex flex-col justify-center" data-aos="fade-up" data-aos-easing="linear"
                     data-aos-duration="1000">
-                    <h3 class="subhead pb-2"> Volunteers</h3>
-                    <h2 class="heading3">Powered by humanity</h2>
-                    <p class="md:mr-10"> Volunteers was launched to unite people in making a positive impact.
-                        In 6 years, 100,000 volunteers have improved 5.8 million lives through medical and
-                        non-medical aid. And we’re just getting started.</p>
+                    <h3 class="subhead pb-2"> </h3>
+                    <h2 class="fw-bold mb-4">Unique Selling Propositions (USPs)</h2>
+                    <ul class="md:mr-10 w-75">
+                        <li class="text-sm">
+                            <p>
+                                First-of-its-Kind Clinic Chain Model in South India, bringing healthcare closer to rural and
+                                semi-urban communities.
+                            </p>
+
+                        </li>
+                        ................................................................................................................................
+                        <li class="text-sm">
+                            <p>
+                                State-of-the-Art Infrastructure
+                                that offers multi-specialty care under one roof.
+                            </p>
+                        </li>
+                        ................................................................................................................................
+                        <li class="text-sm">
+                            <p>
+                                Tech-Enabled Healthcare Services
+                                including telemedicine and home care, ensuring
+                                convenience and quality.
+                            </p>
+                        </li>
+                        ................................................................................................................................
+                        <li class="text-sm">
+                            <p>
+                                Affordable & Transparent Pricing
+                                for all medical services, making healthcare accessible for everyone.
+                            </p>
+                        </li>
+                        ................................................................................................................................
+                        <li class="text-sm">
+                            <p>
+                                Sustainability
+                                Utilizing renewable energy as a core part of our healthcare model to reduce environmental
+                                impact.
+                            </p>
+                        </li>
+                    </ul>
                     <a href="-volunteers" class="flex items-center  gap-3 rwlink md:mt-12 max-md:hidden">
                         <span class="abold text-black">Know More</span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="83.756" height="54" viewBox="0 0 83.756 54">
@@ -487,19 +755,19 @@
         </div>
     </section>
 
-    <section  class="heymedNews   pt-12 pb-10">
+    <section class="heymedNews   pt-12 pb-10">
         <div class="relative">
             <div class=" hidden md:flex justify-end gap-4 items-center pb-3 z-30 relative">
                 <a class="text-black an_vall fw-bold mb-3" href="newsroom">View All</a>
             </div>
             <div class="md:relative md:min-h-[520px] xl:min-h-[530px] 2xl:min-h-[575px]">
                 <div class="">
-                    <div class="rwcontainer" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                    <div class="" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                         <h2 class="fw-semibold max-md:text-center">Heymed in </br> the news</h2>
                     </div>
 
                 </div>
-                <div class="rwcontainer flex md:hidden justify-end gap-2 md:gap-4 items-center max-md:my-3 md:pb-3">
+                <div class=" flex md:hidden justify-end gap-2 md:gap-4 items-center max-md:my-3 md:pb-3">
                     <div class="newscontrol sidercontrol">
                         <svg class="an-left cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="39"
                             height="40" viewBox="0 0 39 40">
@@ -554,13 +822,11 @@
                     </div>
                     <div class="an_nnewswidth" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                         <!-- <div class="newsslider" id="news-slider">
-                                    </div> -->
+                                                                                                                </div> -->
                         <div class="newsslider">
-                            <a href="#"
-                                class="siglenew">
+                            <a href="#" class="siglenew">
                                 <div>
-                                    <img class="w-full object-cover rounded-20"
-                                        src="/assets/images/gallery-5.webp">
+                                    <img class="w-full object-cover rounded-20" src="/assets/images/gallery-5.webp">
                                 </div>
                                 <div class="an_newmetas">
                                     <h6 class="newcat md:pb-2 text-black">Press Release</h6>
@@ -569,11 +835,9 @@
                                     <p class="date">01/06/2024</p>
                                 </div>
                             </a>
-                            <a href="#"
-                                class="siglenew">
+                            <a href="#" class="siglenew">
                                 <div>
-                                    <img class="w-full object-cover rounded-20"
-                                        src="/assets/images/gallery-1.webp">
+                                    <img class="w-full object-cover rounded-20" src="/assets/images/gallery-1.webp">
                                 </div>
                                 <div class="an_newmetas">
                                     <h6 class="newcat md:pb-2 text-black">Press Release</h6>
@@ -583,25 +847,21 @@
                                     <p class="date">10/12/2024</p>
                                 </div>
                             </a>
-                            <a href="#"
-                                class="siglenew">
+                            <a href="#" class="siglenew">
                                 <div>
-                                    <img class="w-full object-cover rounded-20"
-                                        src="/assets/images/gallery-2.webp">
+                                    <img class="w-full object-cover rounded-20" src="/assets/images/gallery-2.webp">
                                 </div>
                                 <div class="an_newmetas">
                                     <h6 class="newcat md:pb-2 text-black">Press Release</h6>
                                     <h4 class="newhead md:pb-3 text-black">Nurse Maria Victoria Juan from
-                                        Philippines wins the prestigious  Guardians Global Nursing Award 2024
+                                        Philippines wins the prestigious Guardians Global Nursing Award 2024
                                     </h4>
                                     <p class="date">10/12/2024</p>
                                 </div>
                             </a>
-                            <a href="#"
-                                class="siglenew">
+                            <a href="#" class="siglenew">
                                 <div>
-                                    <img class="w-full object-cover rounded-20"
-                                        src="/assets/images/gallery-6.webp">
+                                    <img class="w-full object-cover rounded-20" src="/assets/images/gallery-6.webp">
                                 </div>
                                 <div class="an_newmetas">
                                     <h6 class="newcat md:pb-2 text-black">Press Release</h6>

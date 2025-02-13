@@ -2,56 +2,6 @@
 <html lang="fr">
 
 <head>
-    {{-- <style>
-        #didomi-host *:focus {
-            outline: none !important;
-        }
-
-        #didomi-host .didomi-popup-header {
-            font-family: inherit !important;
-        }
-
-        #didomi-host p {
-            font-weight: 300 !important;
-        }
-
-        #didomi-host .didomi-popup-notice .didomi-popup-notice-logo {
-            width: 150px !important;
-            margin-inline: auto;
-        }
-
-        #didomi-host .didomi-buttons .didomi-button {
-            justify-content: center;
-            font-family: inherit;
-            font-weight: 500;
-            padding: .75rem 1.5rem !important;
-            height: auto !important;
-            font-size: 1rem;
-            transition: all 250ms ease-in-out;
-        }
-
-        .didomi-consent-popup-footer.didomi-popup-footer>a>img,
-        .didomi-consent-popup-footer.didomi-popup-footer>a>svg {
-            display: none;
-        }
-
-        #didomi-host .didomi-exterior-border {
-            border-color: var(--outer-border) !important;
-        }
-
-        #didomi-host .didomi-popup-container {
-            border-color: var(--inner-border) !important;
-        }
-
-        #didomi-host .didomi-popup-notice-optin-type {
-            max-width: 768px !important;
-        }
-
-        .didomi-popup-container {
-            padding-bottom: 2rem !important;
-            max-width: 100vw !important;
-        }
-    </style> --}}
     <title>
         Heymed Healthcare
     </title>
@@ -63,14 +13,13 @@
     <meta name="format-detection" content="telephone=no">
 
 
-    <meta name='description'
-        content='HeymedHealthcare'>
+    <meta name='description' content='HeymedHealthcare'>
 
     <meta property="og:title" content="Heymed Healthcare">
 
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://heymedhealthcare.com/">
-    <meta property="og:site_name" content="Heymed Healthcare &amp; Dussault">
+    <meta property="og:site_name" content="Heymed Healthcare">
     <meta name="theme-color" content="#fff" />
 
 
@@ -87,14 +36,14 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
-    <link rel="stylesheet" href="https://use.typekit.net/lfn8zwm.css">
-    <link rel="stylesheet" rel="preconnect" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css">
-    <link rel='stylesheet' type='text/css' media='screen'
-        href='assets/css/reset.min.9a00fd651c7dd05f3c80728cd48c98570cccb9ec3c5a36369c920c7d7a7a0088.css'>
-    <link rel='stylesheet' type='text/css' media='screen'
-        href='assets/css/form.min.9fc5f45d3d04772369dc998ed7001799cb4b1f85fde76170aa9aeba95d16efdc.css'>
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css'>
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css'>
+    {{-- <link rel="stylesheet" href="https://use.typekit.net/lfn8zwm.css"> --}}
+    {{-- <link rel="stylesheet" rel="preconnect" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css"> --}}
+    {{-- <link rel='stylesheet' type='text/css' media='screen'
+        href='assets/css/reset.min.9a00fd651c7dd05f3c80728cd48c98570cccb9ec3c5a36369c920c7d7a7a0088.css'> --}}
+    {{-- <link rel='stylesheet' type='text/css' media='screen'
+        href='assets/css/form.min.9fc5f45d3d04772369dc998ed7001799cb4b1f85fde76170aa9aeba95d16efdc.css'> --}}
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css?v=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css?v=1'>
 
     <link rel='stylesheet' type='text/css' media='screen' href='assets/css/layout.css'>
 
@@ -265,22 +214,22 @@
 
 
 
-    <script src="assets/js//vendors/gsap.min.min.041b8e0d5d7eec2d130ccecb17432e0ec2a55b4eec524499b5ec71ed0a110650.js">
+    <script src="assets/js/vendors/gsap.js">
     </script>
 
 
     <script
-        src="assets/js//vendors/ScrollTrigger.min.min.356af8ca559167a2d0ecbd16f4eba3a68217cc88f8251f562a64debf9508747c.js">
+        src="assets/js/vendors/ScrollTrigger.js">
     </script>
 
 
-    <script src="assets/js//vendors/lenis.min.min.63ba008a9f3073bba096bd2aab4090b12e1f9e22a305c480ad09953bc7f59705.js">
-    </script>
+    {{-- <script src="assets/js//vendors/lenis.min.min.63ba008a9f3073bba096bd2aab4090b12e1f9e22a305c480ad09953bc7f59705.js">
+    </script> --}}
 
 
-    <script src="assets/js//bolean-anims.min.8818d76f2d1f89a70f595c0fff1056a9715108bf0a758eedc03d356584d59f6b.js"></script>
+    {{-- <script src="assets/js//bolean-anims.min.8818d76f2d1f89a70f595c0fff1056a9715108bf0a758eedc03d356584d59f6b.js"></script> --}}
 
-    <script>
+    {{-- <script>
         function replaceNonBreakingSpaces(node) {
             if (node.nodeType === Node.TEXT_NODE) {
                 node.textContent = node.textContent.replace(/ ([!?;:])/g, '\u00A0$1');
@@ -289,9 +238,9 @@
             }
         }
         replaceNonBreakingSpaces(document.body);
-    </script>
+    </script> --}}
 
-    <script src="assets/js//logo-switcher.min.dfd1fee948228e61a2191839a54f8bda1ba37589c1833e13e17913125140f0fe.js"></script>
+    {{-- <script src="assets/js//logo-switcher.min.dfd1fee948228e61a2191839a54f8bda1ba37589c1833e13e17913125140f0fe.js"></script> --}}
 
     <script>
         const testimonialList = document.querySelector("#testimonials ul");

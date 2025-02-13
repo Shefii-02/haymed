@@ -269,57 +269,57 @@ body>header:hover {
 }
 
 @media screen and (min-width:768px) {
-    #plus-de-300 .featured:has(a:nth-child(1):hover) {
+    #plus-de-300 .featured:has(span:nth-child(1):hover) {
         grid-template-columns: 2fr 1fr 1fr
     }
 
-    #plus-de-300 .featured:has(a:nth-child(1):hover) path {
+    #plus-de-300 .featured:has(span:nth-child(1):hover) path {
         fill: #0391a9
     }
 
-    #plus-de-300 .featured:has(a:nth-child(1):hover) a:nth-child(2) svg,
-    #plus-de-300 .featured:has(a:nth-child(1):hover) a:nth-child(3) svg {
+    #plus-de-300 .featured:has(span:nth-child(1):hover) a:nth-child(2) svg,
+    #plus-de-300 .featured:has(span:nth-child(1):hover) a:nth-child(3) svg {
         width: 0
     }
 
-    #plus-de-300 .featured:has(a:nth-child(1):hover) a:nth-child(2) div,
-    #plus-de-300 .featured:has(a:nth-child(1):hover) a:nth-child(3) div {
+    #plus-de-300 .featured:has(span:nth-child(1):hover) a:nth-child(2) div,
+    #plus-de-300 .featured:has(span:nth-child(1):hover) a:nth-child(3) div {
         gap: 0
     }
 
-    #plus-de-300 .featured:has(a:nth-child(2):hover) {
+    #plus-de-300 .featured:has(span:nth-child(2):hover) {
         grid-template-columns: 1fr 2fr 1fr
     }
 
-    #plus-de-300 .featured:has(a:nth-child(2):hover) path {
+    #plus-de-300 .featured:has(span:nth-child(2):hover) path {
         fill: #0391a9
     }
 
-    #plus-de-300 .featured:has(a:nth-child(2):hover) a:nth-child(1) svg,
-    #plus-de-300 .featured:has(a:nth-child(2):hover) a:nth-child(3) svg {
+    #plus-de-300 .featured:has(span:nth-child(2):hover) a:nth-child(1) svg,
+    #plus-de-300 .featured:has(span:nth-child(2):hover) a:nth-child(3) svg {
         width: 0
     }
 
-    #plus-de-300 .featured:has(a:nth-child(2):hover) a:nth-child(1) div,
-    #plus-de-300 .featured:has(a:nth-child(2):hover) a:nth-child(3) div {
+    #plus-de-300 .featured:has(span:nth-child(2):hover) a:nth-child(1) div,
+    #plus-de-300 .featured:has(span:nth-child(2):hover) a:nth-child(3) div {
         gap: 0
     }
 
-    #plus-de-300 .featured:has(a:nth-child(3):hover) {
+    #plus-de-300 .featured:has(span:nth-child(3):hover) {
         grid-template-columns: 1fr 1fr 2fr
     }
 
-    #plus-de-300 .featured:has(a:nth-child(3):hover) path {
+    #plus-de-300 .featured:has(span:nth-child(3):hover) path {
         fill: #0391a9
     }
 
-    #plus-de-300 .featured:has(a:nth-child(3):hover) a:nth-child(1) svg,
-    #plus-de-300 .featured:has(a:nth-child(3):hover) a:nth-child(2) svg {
+    #plus-de-300 .featured:has(span:nth-child(3):hover) a:nth-child(1) svg,
+    #plus-de-300 .featured:has(span:nth-child(3):hover) a:nth-child(2) svg {
         width: 0
     }
 
-    #plus-de-300 .featured:has(a:nth-child(3):hover) a:nth-child(1) div,
-    #plus-de-300 .featured:has(a:nth-child(3):hover) a:nth-child(2) div {
+    #plus-de-300 .featured:has(span:nth-child(3):hover) a:nth-child(1) div,
+    #plus-de-300 .featured:has(span:nth-child(3):hover) a:nth-child(2) div {
         gap: 0
     }
 }
@@ -329,10 +329,10 @@ body>header:hover {
 }
 
 #plus-de-300 .featured div {
-    width: 100%;
+    /* width: 100%;
     display: flex;
     align-items: center;
-    gap: 1rem
+    gap: 1rem */
 }
 
 @media screen and (max-width:767px) {
@@ -342,6 +342,7 @@ body>header:hover {
 }
 
 #testimonials {
+    margin-top: 50px;
     padding-bottom: 4rem;
     position: relative;
     padding-right: 0
@@ -354,7 +355,8 @@ body>header:hover {
     top: 0;
     height: 100%;
     width: 33vw;
-    background: linear-gradient(270deg, #0f4790c7 0%, rgba(24, 23, 23, 0) 100%);
+    /* background: linear-gradient(270deg, #0f4790c7 0%, rgba(24, 23, 23, 0) 100%); */
+
     pointer-events: none
 }
 

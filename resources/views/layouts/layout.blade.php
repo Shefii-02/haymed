@@ -2,7 +2,7 @@
     <a class='brand' style="background: #fff;padding: 9px;border-radius: 10px;" href="index.html">
         <img src="assets/img/logo/logo-color.png" alt="Logo Vincent &amp; Dussault">
     </a>
-    <nav>
+    <nav class="head">
         <ul class="primary">
             <li class="menu-item">
                 <a class=" services" href="services/index.html">
@@ -11,22 +11,37 @@
             </li>
             <li class="menu-item">
                 <a class=" realisation" href="realisations/index.html">
-                    Who we are
+                    About us
                 </a>
             </li>
             <li class="menu-item">
                 <a class=" a-propos" href="a-propos/index.html">
-                    What we do
+                   Services
                 </a>
             </li>
             <li class="menu-item">
                 <a class=" carrieres" href="carrieres/index.html">
-                    Careers
+                    Interdors
                 </a>
             </li>
             <li class="menu-item">
                 <a class=" carrieres" href="carrieres/index.html">
-                    Media
+                    International Section
+                </a>
+            </li>
+            <li class="menu-item">
+                <a class=" contact" href="contact/index.html">
+                    Patient Care
+                </a>
+            </li>
+            <li class="menu-item">
+                <a class=" contact" href="contact/index.html">
+                    Medicare Center
+                </a>
+            </li>
+            <li class="menu-item">
+                <a class=" contact" href="contact/index.html">
+                    News
                 </a>
             </li>
             <li class="menu-item">
