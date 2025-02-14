@@ -16,12 +16,12 @@
             </li>
             <li class="menu-item">
                 <a class=" a-propos" href="a-propos/index.html">
-                   Services
+                    Services
                 </a>
             </li>
             <li class="menu-item">
                 <a class=" carrieres" href="carrieres/index.html">
-                    Interdors
+                    Investors
                 </a>
             </li>
             <li class="menu-item">
@@ -36,17 +36,13 @@
             </li>
             <li class="menu-item">
                 <a class=" contact" href="contact/index.html">
-                    Medicare Center
+                    Media Center
                 </a>
             </li>
+
             <li class="menu-item">
                 <a class=" contact" href="contact/index.html">
-                    News
-                </a>
-            </li>
-            <li class="menu-item">
-                <a class=" contact" href="contact/index.html">
-                    Contact
+                    Contact us
                 </a>
             </li>
         </ul>
@@ -72,9 +68,9 @@
                     <img class="w-full object-contain rw-f-logo max-w-[310px] mb-4 max-md:hidden"
                         src="/assets/img/logo/logo-color.png">
                     <div class="dmaddress pb-2">
-                        <h6 class="m-0 p-0">Heymed Healthcare LLC </h6>
+                        <h6 class="m-0 p-0">Heymed Healthcare Pvt. Ltd </h6>
                         <p class="mb-0 mt-1">
-                            <a href="#" target="_blank">Edappal,MAlappuram</br> Kerala, India</a>
+                            <a href="#" target="_blank">Edappal Pattambi Rd, Malappuram</br> Kerala, India</a>
                         </p>
                     </div>
                     <div class="dm-contactinfo">
@@ -94,47 +90,33 @@
                     <div class="footercol md:flex-1 company-footer">
                         <h6 class="footerlinkhead">Company</h6>
                         <ul class="m-0 p-0">
-                       
-
+                            
                             <li>
-                                <a href="">Who we are</a>
+                                <a href="">About us</a>
                             </li>
-                            <li><a href="">What we do</a> </li>
+                            <li><a href="">Services</a> </li>
                             <li>
-                                <a href="">Our Brands</a>
+                                <a href="">Media Center</a>
                             </li>
-                            <li><a href="">Our Stories</a> </li>
+                            <li><a href="">Contact</a> </li>
 
 
                         </ul>
                     </div>
                     <div class="footercol md:flex-1 brands-footer">
-                        <h6 class="footerlinkhead">Our Brands</h6>
+                        <h6 class="footerlinkhead">Pages</h6>
                         <ul class="m-0 p-0">
 
-                            <li><a href="" target="_blank">Medcare Hospital</a> </li>
-                            <li><a href="" target="_blank"> Hospitals</a> </li>
-                            <li><a href="" target="_blank"> Clinic</a> </li>
-                            <li><a href="" target="_blank"> Pharmacy</a> </li>
+                            <li><a href="" target="_blank">Patient Care</a> </li>
+                            <li><a href="" target="_blank"> Media Center</a> </li>
+                            <li><a href="" target="_blank"> Investors</a> </li>
+                            <li><a href="" target="_blank"> International Section</a> </li>
 
 
 
                         </ul>
                     </div>
-                    <div class="footercol md:flex-1 res-footer">
-                        <h6 class="footerlinkhead">Resources</h6>
-                        <ul class="m-0 p-0">
-
-                            <!-- <li><a href="/investors">Investors</a> </li> -->
-                            <li><a href="">Media Centre</a> </li>
-                            <li><a href="">Health Articles</a> </li>
-                            <li><a href="">Patient Education Resources</a>
-                            </li>
-
-                            <li><a href="">Internal Medicine Training</a>
-                            </li>
-                        </ul>
-                    </div>
+                    
                 </div>
                 <div class="max-md:mt-6 max-md:order-3">
                     <h6 class="footerlinkhead">Follow Us</h6>

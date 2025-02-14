@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        Heymed Healthcare
+        Heymed Healthcare Solutiton Pvt. Ltd
     </title>
 
     <meta charset='UTF-8'>
@@ -397,92 +397,7 @@
         prevButton.disabled = true;
     </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            // Data for Backgrounds and Content
-            const slides = [{
-                    image: "https://hayathhealthcare.com/images/banners/3tUZxnj8mFfoK7VTsO80pFIrk3sdow-photo-1586773860383-dab5f3bc1bcc.avif",
-                    title: "Welcome to Our Website",
-                    description: "Experience a beautiful animated background effect.",
-                    buttonText: "Explore Now",
-                    animation: "zoom"
-                },
-                {
-                    image: "https://hayathhealthcare.com/images/banners/i7FeWtUNFkqwf808sLzHpObdAelqQP-photo-1587351021759-3e566b6af7cc.avif",
-                    title: "Discover New Adventures",
-                    description: "Every moment is a new opportunity to explore.",
-                    buttonText: "Get Started",
-                    // animation: "pan-left"
-                    animation: "zoom"
-                },
-                {
-                    image: "https://hayathhealthcare.com/images/banners/3tUZxnj8mFfoK7VTsO80pFIrk3sdow-photo-1586773860383-dab5f3bc1bcc.avif",
-                    title: "Unlimited Possibilities",
-                    description: "Technology, design, and creativity combined.",
-                    buttonText: "Learn More",
-                    // animation: "pan-right"
-                    animation: "zoom"
-                },
-                {
-                    image: "https://cdn.prod.website-files.com/66d06f3112b793c84dfc2b51/66d703c4753591c16e26c256_banner.avif",
-                    title: "A Journey Awaits",
-                    description: "Take the next step towards success.",
-                    buttonText: "Join Us",
-                    // animation: "pan-top"
-                    animation: "zoom"
-                },
-                {
-                    image: "https://cdn.prod.website-files.com/66d06f3112b793c84dfc2b51/66fe52c69fec547985a40f52_iStock-959594274-poster-00001.jpg",
-                    title: "The Future is Bright",
-                    description: "Stay ahead with innovation and passion.",
-                    buttonText: "Get Inspired",
-                    // animation: "pan-bottom"\    
-                    animation: "zoom"
-                }
-            ];
-
-            let currentIndex = 0;
-            const $backgroundContainer = $('#background-container');
-
-            // Add backgrounds dynamically along with content
-            slides.forEach((slide, index) => {
-                let $backgroundDiv = $('<div></div>').addClass('background').addClass(slide.animation);
-                if (index === 0) $backgroundDiv.addClass('active');
-                $backgroundDiv.css('background-image', `url('${slide.image}')`);
-
-                let $overlayDivParent = $('<div></div>').addClass('content');
-                let $overlayDiv = $('<div></div>').addClass('overlay');
-                let $title = $('<h1></h1>').text(slide.title);
-                let $description = $('<p></p>').text(slide.description);
-
-
-                $overlayDiv.append($title, $description);
-                $overlayDivParent.append($overlayDiv);
-
-                // Append background and overlay content to container
-                let $slideDiv = $('<div class="img-div"></div>').append($backgroundDiv, $overlayDivParent);
-                $backgroundContainer.append($slideDiv);
-            });
-
-            const changeBackground = () => {
-                const $backgrounds = $('.background');
-                const $overlays = $('.overlay');
-                $('.img-div.active').removeClass('active');
-
-                $backgrounds.each(function(index) {
-                    $(this).removeClass('active');
-                    if (index === currentIndex) {
-                        $(this).addClass('active');
-                        $(this).parent().addClass('active');
-                    }
-                });
-
-                currentIndex = (currentIndex + 1) % slides.length;
-            };
-            changeBackground()
-            setInterval(changeBackground, 5000); // Change every 5 seconds
-        });
-    </script>
+   
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" type="text/javascript" defer="defer"></script>
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" type="text/javascript" defer="defer">
     </script>

@@ -13,11 +13,14 @@
     <section id='plus-de-300'>
         <div class='content'>
             <h2 id="plus-de-strong250strongbrconcessionnaires-réalisés">
-                Heymed Health Care
+                Our Journey (Since 2024)
+
             </h2>
             <p>Founded in 2024, Haymed Healthcare Pvt. Ltd. is dedicated to delivering high-quality, affordable healthcare,
                 particularly in rural areas. Our expanding network of clinics, medical centers, diagnostic facilities, and
-                hyper-pharmacies integrates AI-driven technology for advanced, accessible care.</p>
+                hyper-pharmacies integrates AI-driven technology for advanced, accessible care.<br>
+                (we launched our first state-of-the-art 15,000 sq. ft. facility in Edappal, offering:)
+            </p>
 
             <div class="countblocks flex justify-center  flex-wrap gap-2 md:gap-4 max-md:mt-2 md:mt-8 max-md:justify-center">
                 <div class="counter-bg">
@@ -63,8 +66,10 @@
                 </div>
 
             </div>
+            <p class="pt-5 fw-bolder">we plan to expand across all of Kerala and South India, bringing affordable,
+                high-quality treatment through Haymed Healthcare.</p>
             <a href="services/index" class="btn-default mt-6">
-                Discover our Vision for the World
+                Who we are and What we do
                 <svg width="32" height="9" viewBox="0 0 38 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" clip-rule="evenodd"
                         d="M33.2082 0.178985L37.0971 4.0679C37.3358 4.30654 37.3358 4.69346 37.0971 4.9321L33.2082 8.82102C32.9696 9.05966 32.5827 9.05966 32.344 8.82102C32.1054 8.58238 32.1054 8.19546 32.344 7.95682L35.1898 5.11109L-4.46825e-07 5.11108L-3.3998e-07 3.88892L35.1898 3.88892L32.344 1.04319C32.1054 0.804545 32.1054 0.417628 32.344 0.178985C32.5827 -0.0596579 32.9696 -0.0596579 33.2082 0.178985Z"
@@ -75,7 +80,7 @@
     </section>
     <section id='plus-de-300'>
         <div class='content'>
-            <h2 id="plus-de-strong250strongbrconcessionnaires-réalisés">Our Brands</h2>
+            <h2 id="plus-de-strong250strongbrconcessionnaires-réalisés">Our Specialities</h2>
             <p>Our promise is a quality-driven service, and our aim is to ensure affordable access to healthcare services.
             </p>
 
@@ -83,8 +88,7 @@
             <div class="featured mt-6 " style="margin-top:50px; ">
                 <span>
                     <figure>
-                        <img src="https://hayathhealthcare.com/images/venture/q5P5LFVe2lX69yCkWsJ8GWanQ6e1it-photo-1586773860383-dab5f3bc1bcc.avif"
-                            alt="Genesis A40">
+                        <img src="{{ asset('assets/img/specialities/speciality-01.jpeg') }}" alt="HayathMedicare">
                     </figure>
 
                     <div>
@@ -138,8 +142,8 @@
                 </span>
                 <span>
                     <figure>
-                        <img src="https://hayathhealthcare.com/images/venture/Dq35fE1DQLglQPjBWMRInw1LVrxjqY-photo-1626315869436-d6781ba69d6e.avif"
-                            alt="Volkswagen Lachine">
+                        <img src="{{ asset('assets/img/specialities/speciality-02.jpeg') }}"
+                            alt="Hayath Mother and child care">
                     </figure>
 
                     <div>
@@ -193,8 +197,7 @@
                 </span>
                 <span>
                     <figure>
-                        <img src="https://hayathhealthcare.com/images/blog/WbEW4yvM8ZONA3QFzKlpQKcKwjJehR-fe21ef10-617e-4094-8055-0354586b549e.jpg"
-                            alt="Porsche Rive-Sud">
+                        <img src="{{ asset('assets/img/specialities/speciality-03.jpeg') }}" alt="Haymed Clinics">
                     </figure>
                     <div>
                         <span>Haymed Clinics</span>
@@ -279,6 +282,41 @@
     </section>
 
 
+    <section class="bg-gray-50 py-16 px-6 md:px-12">
+        <div class="rwcontainer md:relative md:rounded-20 bg-lightgrey text-white max-md:py-11 ">
+            <div
+                class=" w-full  flex md:rounded-20 md:p-5 xl:p-10 2xl:p-20 md:min-h-[450px] xl:min-h-[450px] 2xl:min-h-[550px] max-md:text-center md:box-content">
+                <div class=" justify-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                    <!-- Left Section -->
+                    <div class="w-75 float-start">
+                        <dic class="w-75">
+                            <h2 class="text-2xl md:text-3xl font-semibold text-gray-900">Partnerships & Alliances</h2>
+                            <p class="mt-4 text-gray-700 leading-relaxed">
+                                Currently independent, Haymed Healthcare plans to collaborate with leading
+                                insurance and financial institutions like Bajaj, Star Health, Federal Bank, HDFC,
+                                ICICI, and SBI to enhance accessibility and affordability in the near future.
+                            </p>
+                        </dic>
+                    </div>
+                    <!-- Handshake Image -->
+                    <div class="w-full mt-12 my-4 flex justify-center">
+                        <img src="{{ asset('assets/img/hand-shake.png') }}" alt="Handshake" class="w-[50%]" />
+                    </div>
+                    <div class="w-75 text-start me-4 float-end">
+                        <dic class="w-75">
+                            <h2 class="text-2xl md:text-3xl font-semibold text-gray-900">Accreditations & Certifications
+                            </h2>
+                            <p class="mt-4 me-4 text-gray-700 leading-relaxed">
+                                Haymed Healthcare is in the process of acquiring NABH, NABL, and ISO
+                                certifications, further reinforcing our commitment to delivering high-quality
+                                healthcare services.
+                            </p>
+                        </dic>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <section id='testimonials' class="mt-5">
@@ -295,31 +333,42 @@
 
             <ul>
                 <li>
-                    <p>I started experiencing symptoms of heavy bleeding & severe abdominal pain, which made me decide to
-                        visit a doctor.</p>
-                    <h4 id="mathieu-spinelli">Mathieu Spinelli</h4>
-                </li>
-                <li>
-                    <p>Nasmin was told she can’t get pregnant & her dreams of motherhood were challenged by endometriosis, a
-                        condition that threatened her fertility.
+                    <p>
+                        I recently had the pleasure of consulting
+                        Dr. Rohith for my acne problems in my face and I must say that I was thoroughly impressed with his
+                        services. From the initial consultation to the follow-up appointments the team and the hospital was
+                        extremely helpful.
                     </p>
-                    <h4 id="andré-gingras">André Gingras</h4>
+                    <h4 class="text-[16px] fw-bold my-3">Akhila Raju</h4>
                 </li>
                 <li>
-                    <p>I am Maricris Ramirez. I am a stage 2 cervical cancer survivor.
+                    <p>
+                        Great service, All staffs are very helpful and friendly. Especially guest relation, they are
+                        coperative and very kind, There is no delay for any purpose
                     </p>
-                    <h4 id="roger-desautels">Roger Desautels </h4>
+                    <h4 class="text-[16px] fw-bold my-3">ATHULYA KP</h4>
                 </li>
                 <li>
-                    <p>Juan arrived at Medcare Orthopaedics and Spine Hospital after a series of failed spinal surgeries
-                        that had left him in severe pain and unable to walk.</p>
-                    <h4 id="patrick-tremblay">Patrick Tremblay </h4>
-                </li>
-                <li>
-                    <p>When unusual symptoms like excessive discharge and spotting disrupted her life, Shirly faced her
-                        health challenges head-on.
+                    <p>
+                        I had been struggling with dark circles around my eyes for a long time, and I finally decided to
+                        seek help from Dr. Rohit Raveendran. I’m so glad I did! Dr. Rohit was incredibly professional and
+                        attentive throughout the process. He took the time to understand my concerns and explained the
+                        treatment options in detail, making sure I felt comfortable with the plan.
                     </p>
-                    <h4 id="stéphanie-arbour">Stéphanie Arbour</h4>
+                    <h4 class="text-[16px] fw-bold my-3">Akhil8p Ansari </h4>
+                </li>
+                <li>
+                    <p>I was struggling with itchy patches of dandruff for a long time and took many medications with little
+                        or no results,then I consulted Dr Rohit ravindran who was very generous and professional,my dandruff
+                        has reduced significantly and very much happy with the treatment.</p>
+                    <h4 class="text-[16px] fw-bold my-3">Amrutha Shamal </h4>
+                </li>
+                <li>
+                    <p>I recently had to visit the hospital and I was extremely impressed with the level of care that I
+                        received. The nurses and doctors were very attentive and thorough in their examinations. The
+                        facility was clean and well-maintained, and the staff was friendly and supportive.
+                    </p>
+                    <h4 class="text-[16px] fw-bold my-3">Muhammed Musthafa</h4>
                 </li>
             </ul>
             <div class="slider-buttons">
@@ -342,10 +391,6 @@
             </div>
 
         </div>
-
-
-
-
     </section>
 
 
@@ -373,7 +418,7 @@
 
         <div class='content'>
             <span>Our Promise</span>
-            <h2 id="la-référence-en-construction-de-concessionnaires"> We will treat you well</h2>
+            <h2 id="la-référence-en-construction-de-concessionnaires"> We care for you</h2>
             <p>This promise to patients, employees and society at large is ingrained in the heart of each ian, and is
                 what inspires us to serve, innovate and grow.</p>
             <a href="a-propos/index" class="btn-default">
@@ -821,7 +866,7 @@
                     </div>
                     <div class="an_nnewswidth" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                         <!-- <div class="newsslider" id="news-slider">
-                                                                                                                </div> -->
+                                                                                                                                                    </div> -->
                         <div class="newsslider">
                             <a href="#" class="siglenew">
                                 <div>
@@ -880,4 +925,211 @@
             </div>
         </div>
     </section>
+
+    <section class="md:my-16 ">
+        {{-- md:rounded-20 bg-theme-top-gradient mbcontainer max-md:py-12 md:p-10 lg:p-12 xl:p-14 2xl:p-16 max-md:text-center --}}
+        <div class="rwcontainer md:relative md:rounded-20 bg-theme-bottom-gradient max-md:bg-theme-gradient max-md:py-11 ">
+            <div
+                class=" w-full md:bg-theme-gradient flex md:rounded-20 md:p-5 xl:p-10 2xl:p-20 md:min-h-[450px] xl:min-h-[450px] 2xl:min-h-[550px] max-md:text-center md:box-content">
+                <div class="flex-1 flex flex-col justify-center" data-aos="fade-up" data-aos-easing="linear"
+                    data-aos-duration="1000">
+                    <h2 class="fw-bold mb-4">Market Opportunity</h2>
+                    <p class="mb-3">
+                        Haymed Healthcare is South India’s first clinic chain group, addressing the growing demand
+                        for affordable, high-quality healthcare in rural and semi-urban areas. With a scalable
+                        model, we are set to expand across India within three years, bridging critical healthcare
+                        gaps.
+                    </p>
+                    <h3 class="text-[22px] text-bold fw-bold mb-4">India's healthcare sector is poised for rapid growth,
+                        driven by:</h3>
+                    <ul class="list-style">
+                        <li class="text-sm mb-3">
+                            <p class="flex gap-2">
+                                <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="20"
+                                    height="20" viewBox="0 0 39 40" style="display: block;">
+                                    <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
+                                        <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(0.431 -0.49)"
+                                            fill="#fff" stroke="#fff" stroke-width="1">
+                                            <ellipse cx="19.5" cy="20" rx="19.5" ry="20"
+                                                stroke="none">
+                                            </ellipse>
+                                            <ellipse cx="19.5" cy="20" rx="19" ry="19.5"
+                                                fill="none"></ellipse>
+                                        </g>
+                                        <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right"
+                                            transform="translate(13.302 13.302)">
+                                            <path id="Path_21067" data-name="Path 21067" d="M7.5,18H19.915"
+                                                transform="translate(-7.5 -11.792)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                            <path id="Path_21068" data-name="Path 21068" d="M18,7.5l6.208,6.208L18,19.915"
+                                                transform="translate(-11.792 -7.5)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </svg>
+                                Rising demand for quality healthcare in rural and semi-urban areas.
+                            </p>
+
+                        </li>
+                        <li class="text-sm mb-3">
+                            <p class="flex gap-2">
+                                <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="20"
+                                    height="20" viewBox="0 0 39 40" style="display: block;">
+                                    <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
+                                        <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(0.431 -0.49)"
+                                            fill="#fff" stroke="#fff" stroke-width="1">
+                                            <ellipse cx="19.5" cy="20" rx="19.5" ry="20"
+                                                stroke="none">
+                                            </ellipse>
+                                            <ellipse cx="19.5" cy="20" rx="19" ry="19.5"
+                                                fill="none"></ellipse>
+                                        </g>
+                                        <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right"
+                                            transform="translate(13.302 13.302)">
+                                            <path id="Path_21067" data-name="Path 21067" d="M7.5,18H19.915"
+                                                transform="translate(-7.5 -11.792)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                            <path id="Path_21068" data-name="Path 21068" d="M18,7.5l6.208,6.208L18,19.915"
+                                                transform="translate(-11.792 -7.5)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </svg>
+                                Government initiatives promoting accessible and affordable medical services.
+                            </p>
+                        </li>
+                        <li class="text-sm mb-3">
+                            <p class="flex gap-2">
+                                <svg class="brand-right cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="20"
+                                    height="20" viewBox="0 0 39 40" style="display: block;">
+                                    <g id="Group_11200" data-name="Group 11200" transform="translate(-0.431 0.49)">
+                                        <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(0.431 -0.49)"
+                                            fill="#fff" stroke="#fff" stroke-width="1">
+                                            <ellipse cx="19.5" cy="20" rx="19.5" ry="20"
+                                                stroke="none">
+                                            </ellipse>
+                                            <ellipse cx="19.5" cy="20" rx="19" ry="19.5"
+                                                fill="none"></ellipse>
+                                        </g>
+                                        <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right"
+                                            transform="translate(13.302 13.302)">
+                                            <path id="Path_21067" data-name="Path 21067" d="M7.5,18H19.915"
+                                                transform="translate(-7.5 -11.792)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                            <path id="Path_21068" data-name="Path 21068" d="M18,7.5l6.208,6.208L18,19.915"
+                                                transform="translate(-11.792 -7.5)" fill="none" stroke="#164D92"
+                                                stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                            </path>
+                                        </g>
+                                    </g>
+                                </svg>
+                                Technological advancements enabling cost-effective, efficient healthcare solutions.
+                            </p>
+                        </li>
+
+                    </ul>
+                    <p class="my-5">Haymed Healthcare is uniquely positioned to leverage these opportunities, making it a
+                        high-potential investment prospect. </p>
+                </div>
+
+            </div>
+
+
+        </div>
+    </section>
+
 @endsection
+
+@push('footer')
+    <script>
+        $(document).ready(function() {
+            // Data for Backgrounds and Content
+            const slides = [{
+                    image: "{{ asset('assets/img/banners/banner-01.jpeg') }}",
+                    title: "Welcome to Our Website",
+                    description: "Experience a beautiful animated background effect.",
+                    buttonText: "Explore Now",
+                    animation: "zoom"
+                },
+                {
+                    image: "{{ asset('assets/img/banners/banner-02.jpeg') }}",
+                    title: "Discover New Adventures",
+                    description: "Every moment is a new opportunity to explore.",
+                    buttonText: "Get Started",
+                    // animation: "pan-left"
+                    animation: "zoom"
+                },
+                {
+                    image: "{{ asset('assets/img/banners/banner-03.jpeg') }}",
+                    title: "Unlimited Possibilities",
+                    description: "Technology, design, and creativity combined.",
+                    buttonText: "Learn More",
+                    // animation: "pan-right"
+                    animation: "zoom"
+                },
+                // {
+                //     image: "https://cdn.prod.website-files.com/66d06f3112b793c84dfc2b51/66d703c4753591c16e26c256_banner.avif",
+                //     title: "A Journey Awaits",
+                //     description: "Take the next step towards success.",
+                //     buttonText: "Join Us",
+                //     // animation: "pan-top"
+                //     animation: "zoom"
+                // },
+                // {
+                //     image: "https://cdn.prod.website-files.com/66d06f3112b793c84dfc2b51/66fe52c69fec547985a40f52_iStock-959594274-poster-00001.jpg",
+                //     title: "The Future is Bright",
+                //     description: "Stay ahead with innovation and passion.",
+                //     buttonText: "Get Inspired",
+                //     // animation: "pan-bottom"\    
+                //     animation: "zoom"
+                // }
+            ];
+
+            let currentIndex = 0;
+            const $backgroundContainer = $('#background-container');
+
+            // Add backgrounds dynamically along with content
+            slides.forEach((slide, index) => {
+                let $backgroundDiv = $('<div></div>').addClass('background').addClass(slide.animation);
+                if (index === 0) $backgroundDiv.addClass('active');
+                $backgroundDiv.css('background-image', `url('${slide.image}')`);
+
+                let $overlayDivParent = $('<div></div>').addClass('content');
+                let $overlayDiv = $('<div></div>').addClass('overlay');
+                let $title = $('<h1></h1>').text(slide.title);
+                let $description = $('<p></p>').text(slide.description);
+
+
+                $overlayDiv.append($title, $description);
+                $overlayDivParent.append($overlayDiv);
+
+                // Append background and overlay content to container
+                let $slideDiv = $('<div class="img-div"></div>').append($backgroundDiv, $overlayDivParent);
+                $backgroundContainer.append($slideDiv);
+            });
+
+            const changeBackground = () => {
+                const $backgrounds = $('.background');
+                const $overlays = $('.overlay');
+                $('.img-div.active').removeClass('active');
+
+                $backgrounds.each(function(index) {
+                    $(this).removeClass('active');
+                    if (index === currentIndex) {
+                        $(this).addClass('active');
+                        $(this).parent().addClass('active');
+                    }
+                });
+
+                currentIndex = (currentIndex + 1) % slides.length;
+            };
+            changeBackground()
+            setInterval(changeBackground, 5000); // Change every 5 seconds
+        });
+    </script>
+@endpush
