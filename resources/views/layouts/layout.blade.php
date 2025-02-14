@@ -5,7 +5,7 @@
     <nav class="head">
         <ul class="primary">
             <li class="menu-item">
-                <a class=" services" href="services/index.html">
+                <a class="" href="{{ route('public.index') }}">
                     Home
                 </a>
             </li>
