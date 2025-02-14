@@ -487,6 +487,19 @@ body>header:hover {
     #reference .content {
         order: 0
     }
+    #gallery .top-row, #gallery .bottom-row{
+        display: block !important;
+        width: 100% !important;
+        height: 100% !important;
+        min-width: 100% !important;
+    }
+     figure{
+        margin-bottom: 20px !important;
+    }
+  
+}
+.fs-17{
+    font-size: 17px;
 }
 
 
@@ -500,12 +513,6 @@ body>header:hover {
     gap: .5rem
 }
 
-@media screen and (max-width:767px) {
-    #gallery .content {
-        transform: translateX(-25vw)
-    }
-}
-
 #gallery .top-row,
 #gallery .bottom-row {
     display: grid;
@@ -517,8 +524,8 @@ body>header:hover {
 
 @media screen and (max-width:767px) {
 
-    #gallery .top-row,
+    /* #gallery .top-row,
     #gallery .bottom-row {
         min-width: 140vw
-    }
+    } */
 }

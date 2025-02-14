@@ -1,5 +1,5 @@
 <header>
-    <a class='brand' style="background: #fff;padding: 9px;border-radius: 10px;" href="index.html">
+    <a class='brand' style="background: #fff;padding: 9px;border-radius: 10px;" href="/">
         <img src="assets/img/logo/logo-color.png" alt="Logo Vincent &amp; Dussault">
     </a>
     <nav class="head">
@@ -25,23 +25,23 @@
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" carrieres" href="{{ route('public.international-section') }}">
-                    International Section
+                <a class="" href="{{ route('public.international-seation') }}">
+                    International Seation
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" contact" href="{{ route('public.patient-care') }}">
+                <a class="" href="{{ route('public.patient-care') }}">
                     Patient Care
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" contact" href="{{ route('public.media-center') }}">
+                <a class="" href="{{ route('public.media-center') }}">
                     Media Center
                 </a>
             </li>
 
             <li class="menu-item">
-                <a class=" contact" href="{{ route('public.contact-us') }}">
+                <a class="" href="{{ route('public.contact-us') }}">
                     Contact us
                 </a>
             </li>
@@ -90,7 +90,7 @@
                     <div class="footercol md:flex-1 company-footer">
                         <h6 class="footerlinkhead">Company</h6>
                         <ul class="m-0 p-0">
-                            
+
                             <li>
                                 <a href="">About us</a>
                             </li>
@@ -116,7 +116,7 @@
 
                         </ul>
                     </div>
-                    
+
                 </div>
                 <div class="max-md:mt-6 max-md:order-3">
                     <h6 class="footerlinkhead">Follow Us</h6>
@@ -139,8 +139,7 @@
                         </a>
                         <a href="" target="_blank" class="twitter">
 
-                            <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45"
-                                viewBox="0 0 45 45">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
                                 <g id="Group_11240" data-name="Group 11240" transform="translate(-1594 -9627.729)">
                                     <g id="Group_11242" data-name="Group 11242">
                                         <g id="Group_11246" data-name="Group 11246">

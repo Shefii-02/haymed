@@ -301,6 +301,11 @@ section:not(.bg-section),
     margin-bottom: 50px;
 }
 
+.fw-bold{
+    font-weight: 800;
+}
+
+
 .intro .content {
     padding-inline: 2rem;
     max-width: 38rem;

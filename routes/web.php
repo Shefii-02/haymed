@@ -18,9 +18,9 @@ Route::get('investors', function () {
     return view('frontend.investors');
 })->name('public.investors');
 
-Route::get('international-section', function () {
-    return view('frontend.international-section');
-})->name('public.international-section');
+Route::get('international-seation', function () {
+    return view('frontend.international-seation');
+})->name('public.international-seation');
 
 
 Route::get('patient-care', function () {

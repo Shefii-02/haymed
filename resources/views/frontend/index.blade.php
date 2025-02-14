@@ -688,6 +688,26 @@
                 </figure>
             </div>
         </div>
+        {{-- <div data-slick='{"slidesToShow": 4, "slidesToScroll": 4}'>
+            <div>
+                <img src="assets/images/gallery-1.webp" alt="V&D">
+            </div>
+            <div>
+                <img src="assets/images/gallery-2.webp" alt="V&D">
+            </div>
+            <div>
+                <img src="assets/images/gallery-3.webp" alt="V&D">
+            </div>
+            <div>
+                <img src="assets/images/gallery-4.webp" alt="V&D">
+            </div>
+            <div>
+                <img src="assets/images/gallery-5.webp" alt="V&D">
+            </div>
+            <div>
+                <img src="assets/images/gallery-6.webp" alt="V&D">
+            </div>
+        </div> --}}
 
 
 
@@ -866,7 +886,7 @@
                     </div>
                     <div class="an_nnewswidth" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                         <!-- <div class="newsslider" id="news-slider">
-                                                                                                                                                    </div> -->
+                                                                                                                                                            </div> -->
                         <div class="newsslider">
                             <a href="#" class="siglenew">
                                 <div>
@@ -1042,7 +1062,6 @@
 
         </div>
     </section>
-
 @endsection
 
 @push('footer')
@@ -1051,23 +1070,23 @@
             // Data for Backgrounds and Content
             const slides = [{
                     image: "{{ asset('assets/img/banners/banner-01.jpeg') }}",
-                    title: "Welcome to Our Website",
-                    description: "Experience a beautiful animated background effect.",
+                    title: "",
+                    description: "",
                     buttonText: "Explore Now",
                     animation: "zoom"
                 },
                 {
                     image: "{{ asset('assets/img/banners/banner-02.jpeg') }}",
-                    title: "Discover New Adventures",
-                    description: "Every moment is a new opportunity to explore.",
+                    title: "",
+                    description: "",
                     buttonText: "Get Started",
                     // animation: "pan-left"
                     animation: "zoom"
                 },
                 {
                     image: "{{ asset('assets/img/banners/banner-03.jpeg') }}",
-                    title: "Unlimited Possibilities",
-                    description: "Technology, design, and creativity combined.",
+                    title: "",
+                    description: "",
                     buttonText: "Learn More",
                     // animation: "pan-right"
                     animation: "zoom"
