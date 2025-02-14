@@ -253,7 +253,7 @@
             </div>
         </div>
     </section>
-    <section class="bg-theme-top-gradient rw-moopan relative mb-5">
+    <section class=" rwcontainer bg-theme-top-gradient1 rw-moopan relative mb-5">
         <div class=" flex pt-7 max-md:flex-col">
             <div class="flex flex-col justify-between">
                 <div class="rw-moopan-desc max-md:text-center pt-10 2xl:pt-24 aos-init aos-animate" data-aos="fade-up"

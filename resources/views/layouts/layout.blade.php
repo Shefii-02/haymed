@@ -10,38 +10,38 @@
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" realisation" href="realisations/index.html">
+                <a class="" href="{{ route('public.about-us') }}">
                     About us
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" a-propos" href="a-propos/index.html">
+                <a class="" href="{{ route('public.services') }}">
                     Services
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" carrieres" href="carrieres/index.html">
+                <a class="" href="{{ route('public.investors') }}">
                     Investors
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" carrieres" href="carrieres/index.html">
+                <a class=" carrieres" href="{{ route('public.international-section') }}">
                     International Section
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" contact" href="contact/index.html">
+                <a class=" contact" href="{{ route('public.patient-care') }}">
                     Patient Care
                 </a>
             </li>
             <li class="menu-item">
-                <a class=" contact" href="contact/index.html">
+                <a class=" contact" href="{{ route('public.media-center') }}">
                     Media Center
                 </a>
             </li>
 
             <li class="menu-item">
-                <a class=" contact" href="contact/index.html">
+                <a class=" contact" href="{{ route('public.contact-us') }}">
                     Contact us
                 </a>
             </li>
