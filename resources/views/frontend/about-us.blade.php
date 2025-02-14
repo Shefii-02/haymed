@@ -3,7 +3,7 @@
   
 @endpush
 @section('content')
-    <section class='intro mb-150'>
+    <section class='intro mb-50'>
 
         <div class='content'>
             <h1 class="text-white fw-bold">About us</h1>
