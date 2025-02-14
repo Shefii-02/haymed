@@ -110,7 +110,7 @@
                             <li><a href="" target="_blank">Patient Care</a> </li>
                             <li><a href="" target="_blank"> Media Center</a> </li>
                             <li><a href="" target="_blank"> Investors</a> </li>
-                            <li><a href="" target="_blank"> International Section</a> </li>
+                            <li><a href="" target="_blank"> International Seation</a> </li>
 
 
 
