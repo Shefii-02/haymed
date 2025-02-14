@@ -36,10 +36,10 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css?v=1.2'>
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css?v=1.2'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css?v=1.3'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css?v=1.3'>
 
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/layout.css?v=1.2'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/layout.css?v=1.3'>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" media="all">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="all">
@@ -208,13 +208,10 @@
 
 
 
-    <script src="assets/js/vendors/gsap.js">
-    </script>
+    <script src="assets/js/vendors/gsap.js"></script>
 
 
-    <script
-        src="assets/js/vendors/ScrollTrigger.js">
-    </script>
+    <script src="assets/js/vendors/ScrollTrigger.js"></script>
 
 
     {{-- <script src="assets/js//vendors/lenis.min.min.63ba008a9f3073bba096bd2aab4090b12e1f9e22a305c480ad09953bc7f59705.js">
@@ -391,7 +388,7 @@
         prevButton.disabled = true;
     </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-   
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" type="text/javascript" defer="defer"></script>
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" type="text/javascript" defer="defer">
     </script>
