@@ -36,16 +36,10 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
-    {{-- <link rel="stylesheet" href="https://use.typekit.net/lfn8zwm.css"> --}}
-    {{-- <link rel="stylesheet" rel="preconnect" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css"> --}}
-    {{-- <link rel='stylesheet' type='text/css' media='screen'
-        href='assets/css/reset.min.9a00fd651c7dd05f3c80728cd48c98570cccb9ec3c5a36369c920c7d7a7a0088.css'> --}}
-    {{-- <link rel='stylesheet' type='text/css' media='screen'
-        href='assets/css/form.min.9fc5f45d3d04772369dc998ed7001799cb4b1f85fde76170aa9aeba95d16efdc.css'> --}}
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css?v=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css?v=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/main.css?v=1.2'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/home.css?v=1.2'>
 
-    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/layout.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/css/layout.css?v=1.2'>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" media="all">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="all">
